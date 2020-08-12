@@ -10,6 +10,6 @@ def square():             #here we have specified that are further code are unde
   sparsh.right(90)
   sparsh.forward(100)
   
-  square()                #here we called are function we dont need to type tha code again
-  sparsh.forward(100)     #now with this the turtle will moe 200 positions upside
-  square()                #after moving it will made an another square
+square()                #here we called are function we dont need to type tha code again
+sparsh.forward(100)     #now with this the turtle will moe 200 positions upside
+square()                #after moving it will made an another square
